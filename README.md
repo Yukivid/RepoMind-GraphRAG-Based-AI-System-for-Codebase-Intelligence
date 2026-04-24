@@ -2,6 +2,8 @@
 
 An AI-powered developer tool for rapid codebase onboarding and exploration through natural-language Q&A, call graph visualization, and automated code health analysis.
 
+Link : repo-mind-ten.vercel.app
+
 ## Features
 
 - **Natural Language Q&A** — Ask questions about any repository and get context-aware answers powered by Graph-RAG
