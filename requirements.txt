@@ -1,0 +1,7 @@
+streamlit
+gitpython
+networkx
+tree_sitter
+tree_sitter_languages
+sentence-transformers
+numpy

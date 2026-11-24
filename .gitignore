@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# Cloned test repos (have their own GitHub repos)
+repos/
+# Generated embeddings / index files
+*.npy
+*.faiss
+*.jsonl
+# Secrets
+.env
+.env.*
+keys.json
+credentials.json
+token.json
