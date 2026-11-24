@@ -1,0 +1,7 @@
+gitpython
+sentence-transformers
+faiss-cpu
+streamlit
+tqdm
+regex
+sqlitedict
